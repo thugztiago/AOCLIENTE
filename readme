@@ -1,0 +1,3 @@
+chmod +x cliente.sh
+sudo ./cliente.sh
+sudo reboot
