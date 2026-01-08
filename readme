@@ -1,3 +1,5 @@
 chmod +x cliente.sh
 sudo ./cliente.sh
 sudo reboot
+
+http://intranet.ambientesoperativos.pt
