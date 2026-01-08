@@ -3,7 +3,7 @@
 # ==============================
 # VARIÁVEIS
 # ==============================
-LDAP_SERVER="192.168.56.10"
+LDAP_SERVER="10.213.181.41"
 BASE_DN="dc=ambientesoperativos,dc=pt"
 DOMAIN="ambientesoperativos.pt"
 
